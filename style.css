@@ -1,13 +1,12 @@
-/* body {
-    background-image: url(./img/fondo.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+.carousel-inner {
+    width: 50%;
+    margin: 0 auto;
 }
 
-.navbar-brand {
-    background-color: #ff8184;
+img {
+    max-width: 100%;
 }
 
-.navbar navbar-expand-lg navbar-light bg-light {
-    background-color: #ff8184;
-} */
+audio {
+    max-width: 100%;
+}
